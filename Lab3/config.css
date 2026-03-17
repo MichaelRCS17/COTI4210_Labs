@@ -1,0 +1,88 @@
+h1{
+    background-color:lightcyan ;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    width: auto;
+    text-align: justify; 
+    text-indent: 10%; 
+    text-decoration: none; 
+    text-transform: none;
+    word-spacing: normal;
+    text-shadow: 1px 0px;
+}
+
+h2{
+    background-color:lightcyan ;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    width: auto;
+    text-align: justify; 
+    text-indent: 10%; 
+    text-decoration: none; 
+    text-transform: none;
+    word-spacing: normal;
+    text-shadow: 1px 0px;
+}
+
+body{
+    background-color:rgb(130, 219, 219) ;
+    color:rgb(3, 3, 108);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    width: auto;
+    text-align: justify; 
+    text-indent: 10%; 
+    text-decoration: none; 
+    text-transform: none;
+    word-spacing: normal;
+    text-shadow: 0px 0px;
+}
+
+footer{
+    background-color:rgb(145, 204, 204) ;
+    color:rgb(11, 11, 34);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    width: auto;
+    text-align: justify; 
+    text-indent: 10%; 
+    text-decoration: none; 
+    text-transform: none;
+    word-spacing: normal;
+    text-shadow: 0px 0px;
+}
+
+p{
+    background-color:rgb(130, 219, 219);
+    color:rgb(48, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 200%;
+    width: auto;
+    text-align: justify; 
+    text-indent: 5%; 
+    text-decoration: none; 
+    text-transform: none;
+    word-spacing: normal;
+    text-shadow: 0px 0px;
+}
+
+
+
+
