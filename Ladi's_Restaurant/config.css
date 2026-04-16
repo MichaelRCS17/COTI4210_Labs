@@ -1,0 +1,30 @@
+nav {
+    float: left;
+    width: 175px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    padding: 0px;
+    font-weight: bold;
+    display:block
+}
+
+nav a:link {
+    color: #ff0000;
+}
+
+nav a:visited {
+    color: #ff0000;
+}
+
+nav a:hover {
+    color: #000066;
+}
