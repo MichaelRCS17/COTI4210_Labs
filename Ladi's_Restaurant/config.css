@@ -11,6 +11,9 @@ nav ul {
     padding: 0px;
     
 }
+nav ul li{
+    margin: 12px 0;
+}
 
 nav a {
     text-decoration: none;
