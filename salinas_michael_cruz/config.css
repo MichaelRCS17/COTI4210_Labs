@@ -1,0 +1,376 @@
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+
+    background-color: #f5f5f5;
+
+    color: #006b3f;
+
+}
+
+
+header {
+
+    background-image: url("fotos/background\ arriba\ nuevo.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    height: 350px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    color: white;
+
+    text-align: center;
+}
+
+header img {
+
+    width: 150px;
+    vertical-align: middle;
+
+}
+
+
+
+nav {
+
+    background-color: #ffffff;
+
+    padding: 10px;
+
+    text-align: center;
+
+    border-bottom: 2px solid #006b3f;
+
+}
+
+nav ul {
+
+    list-style: none;
+
+}
+
+nav ul li {
+
+    display: inline;
+
+    margin: 0 15px;
+
+}
+
+nav a {
+
+    color: #006b3f;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+nav a:hover {
+
+    color: #004d2e;
+
+}
+
+
+
+main {
+
+    padding: 20px;
+    position: relative;
+    min-height: 500px;
+}
+
+
+
+h1,
+h2,
+h3 {
+
+    color: #006b3f;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+p {
+
+    margin-bottom: 15px;
+
+    line-height: 1.6;
+
+}
+
+
+
+iframe {
+
+    display: block;
+
+    margin: 20px auto;
+
+    border-radius: 10px;
+
+}
+
+
+.mapa {
+
+    width: 100%;
+
+}
+
+
+.img-esquina {
+    width: 220px;
+    position: absolute;
+    bottom: -45px;
+    right: 20px;
+}
+
+.mojo-isleño,
+.parada-botes,
+.carnaval,
+.enc-navideño,
+.el-dorado,
+.ladis,
+.robles,
+.la-barkita,
+.sal-pa-dentro,
+.puerta-al-sol,
+.el-fogon,
+.full-moon,
+.albergue,
+.fiestas-patronales,
+.cayo,
+.pista,
+.bahia,
+.monumento,
+.reserva,
+.piedras,
+.playa-ochentas {
+    width: 200px;
+    margin-right:15px;
+    border-radius: 10px;
+}
+
+
+footer {
+
+    background-image: url("fotos/background\ abajo.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    height: 150px;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 10px;
+
+    margin-top: 20px;
+
+}
+
+@media (max-width: 700px) {
+    body {
+
+    font-family: 'Times New Roman', Times, serif;
+
+    background-color: #f5f5f5;
+
+    color: #006b3f;
+
+}
+
+
+header {
+
+    background-image: url("fotos/background\ arriba\ nuevo.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    height: 350px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    color: white;
+
+    text-align: center;
+}
+
+header img {
+
+    width: 150px;
+    vertical-align: middle;
+
+}
+
+
+
+nav {
+
+    background-color: #ffffff;
+
+    padding: 10px;
+
+    text-align: center;
+
+    border-bottom: 2px solid #006b3f;
+
+}
+
+nav ul {
+
+    list-style: none;
+
+}
+
+nav ul li {
+
+    display: inline;
+
+    margin: 0 15px;
+
+}
+
+nav a {
+
+    color: #006b3f;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+nav a:hover {
+
+    color: #004d2e;
+
+}
+
+
+
+main {
+
+    padding: 20px;
+    position: relative;
+    min-height: 500px;
+}
+
+
+
+h1,
+h2,
+h3 {
+
+    color: #006b3f;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+p {
+
+    margin-bottom: 15px;
+
+    line-height: 1.6;
+
+}
+
+
+
+iframe {
+
+    display: block;
+
+    margin: 20px auto;
+
+    border-radius: 10px;
+
+}
+
+
+.mapa {
+
+    width: 100%;
+
+}
+
+.img-esquina {
+    width: 220px;
+    position: absolute;
+    bottom: -45px;
+    right: 20px;
+}
+
+.mojo-isleño,
+.parada-botes,
+.carnaval,
+.enc-navideño,
+.el-dorado,
+.ladis,
+.robles,
+.la-barkita,
+.sal-pa-dentro,
+.puerta-al-sol,
+.el-fogon,
+.full-moon,
+.albergue,
+.fiestas-patronales,
+.cayo,
+.pista,
+.bahia,
+.monumento,
+.reserva,
+.piedras,
+.playa-ochentas {
+    width: 200px;
+    margin-right:15px;
+    border-radius: 10px;
+}
+
+
+footer {
+
+    background-image: url("fotos/background\ abajo.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    height: 150px;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 10px;
+
+    margin-top: 20px;
+
+}
+}
